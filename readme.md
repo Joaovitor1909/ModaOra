@@ -2,11 +2,6 @@
 
 Projeto de site institucional para a marca **Moda Ora**, com foco em moda contemporânea, sofisticação e estilo. A página apresenta um layout elegante, responsivo e limpo, utilizando HTML5 e CSS3 puros, com tipografia customizada para reforçar a identidade visual.
 
-## 🌐 Demonstração
-
-*Ainda não publicada*  
-<!-- Caso você publique, adicione aqui: https://seu-site.netlify.app ou GitHub Pages -->
-
 ---
 
 ## 📁 Estrutura do Projeto
