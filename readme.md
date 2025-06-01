@@ -11,7 +11,7 @@ Projeto de site institucional para a marca **Moda Ora**, com foco em moda contem
 
 ## 📁 Estrutura do Projeto
 
-'''moda-ora/
+```moda-ora/
 ├── imagens/
 │ ├── topo.jpg
 │ ├── modelo2.jpg
@@ -24,7 +24,7 @@ Projeto de site institucional para a marca **Moda Ora**, com foco em moda contem
 │ └── Playfair-VariableFont_opsz,wdth,wght.ttf
 ├── index.html
 ├── style.css
-└── README.md'''
+└── README.md ```
 
 ---
 
