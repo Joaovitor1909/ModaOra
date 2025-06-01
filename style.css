@@ -1,0 +1,166 @@
+@font-face {
+    font-family: 'Viaoda Libre';
+    src: url(fonts/ViaodaLibre-Regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(fonts/Roboto-VariableFont_wdth\,wght.ttf) format(truetype);
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Playfair';
+    src: url(fonts/Playfair-VariableFont_opsz\,wdth\,wght.ttf) format(truetype);
+    font-style: normal;
+    font-weight: normal;
+}
+
+html{
+  font-size: 62.5%;  
+}
+
+body{
+   font-family: 'roboto';
+}
+
+.container {
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.header{
+    background-color:#162028 ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    margin-left:4em;
+    margin-right: 4em;
+}
+.header__logo{
+    color: white;
+    font-size: 4.5rem;
+    padding-left: 50px;
+    font-family: 'Viaoda Libre';
+}
+
+.header__menu{
+    display: flex;
+    list-style-type: none;
+    text-transform: uppercase;
+    font-family: 'roboto';
+    font-size: 15px;
+    gap: 50px;
+    padding-right: 35px;
+    padding-top: 7px;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+
+.header__menu a{
+    color:#425564;
+    text-decoration: none;
+}
+
+.modelo{
+    margin-top: 0px;
+}
+
+.modelo__img{
+    width: 100%;
+}
+
+section h1{
+    font-family: 'Viaoda Libre';
+    color: #555;
+    font-size: 4.5rem;
+    padding-left: 50px;
+    text-align: center;
+}
+.section__descricao{
+ color: #555;
+ text-align: center;
+ font-size: 24px;
+ line-height: 1.8;
+ padding-left: 320px;
+ padding-right: 320px;
+ padding-bottom: 80px;
+}
+
+.designs{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.designs img {
+  width: 400px; 
+  height: auto; 
+}
+
+.designs__nome{
+    text-align: center;
+    text-transform: uppercase;
+    color: #555;
+    font-size: 24px;
+    letter-spacing: 5px;
+}
+
+.designs__caracteristica{
+    color: #555;
+    text-align: center;
+    font-size: 24px;
+}
+
+.encerramento {
+    background-image: url(imagens/bg_detalhe.png);
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left:4em;
+    margin-right: 4em;
+}
+
+.encerramento__h1{
+    color: white;
+    font-size: 80px;
+    font-family:'Playfair';
+    text-transform: uppercase;
+    padding-left: 200px;
+    padding-right: 90px;
+    padding-top: 150px;
+    font-weight: normal;
+}
+
+.encerramento__p{
+    font-family: 'Roboto';
+    color: white;
+    margin-top: 60px;
+    padding-left: 200px;
+    padding-right: 650px;
+    font-size: 26px;
+}
+
+.fim{
+align-items: center;
+background-color:#0b171f;
+font-size: 15px;
+width: auto;
+height: 50px;
+margin-left:4em;
+margin-right: 4em;
+margin-bottom: 0px;
+}
+
+.fim p{
+    color: #6f8597;
+    text-align: center;
+    margin-top: 0;
+    font-size: 20px;
+    letter-spacing: 3px;
+    padding-top: 10px;
+}
