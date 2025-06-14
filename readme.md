@@ -48,12 +48,6 @@ Projeto de site institucional para a marca **Moda Ora**, com foco em moda contem
 
 ---
 
-## 📸 Capturas de Tela
-
-> *(Você pode adicionar imagens da interface aqui quando quiser destacar o visual do projeto)*
-
----
-
 ## 🛠️ Como Executar o Projeto
 
 1. Clone ou baixe o repositório
